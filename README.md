@@ -10,7 +10,7 @@ No special hardware. No cloud upload. Just the LiDAR sensor already in your pock
 
 <!-- Drop assets/demo_realtime.gif here (phone screen recording) -->
 <p align="center">
-  <img src="assets/demo_realtime.gif" width="320" alt="Real-time LiDAR scan on iPhone Pro"/>
+  <img src="assets/demo_realtime.gif" height="100%" alt="Real-time LiDAR scan on iPhone Pro"/>
 </p>
 
 <br>
