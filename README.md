@@ -6,7 +6,7 @@ No special hardware. No cloud upload. Just the LiDAR sensor already in your pock
 
 ---
 
-## Demo (iPhone 17 Pro)
+## Realtime Demo (by iPhone 17 Pro)
 
 <!-- Drop assets/demo_realtime.gif here (phone screen recording) -->
 <p align="center">
